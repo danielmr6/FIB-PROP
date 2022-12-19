@@ -1,0 +1,27 @@
+Descripcio: casos d’us i classe a provar
+		 
+ 1) -> loadDataInfo(String type):  ArrayList<String>
+ 2) -> storeDataInfo(String type, ArrayList<String> obj)
+ 3) -> Exit
+ 
+Confirmar que totes les funcions del controlador de Dades no produeixen cap error en temps d'execucio.
+A mes per cada cas el Driver te informacio per saber com s'ha d'executar. Aquest controlador s'encarrega de 
+gestionar tota la part de dades i persistencia, carregar i guardar.
+
+Drivers construits i integrats per a la prova
+	-DriverCtrlDataLayer.java
+
+Entrada: input1.in
+
+Sortida: expected1.txt
+
+Entrada: input2.in
+
+Sortida: expected2.txt
+
+Entrada: input3.in
+
+Sortida: expected3.txt
+
+Resultat de la prova: OK
+ 

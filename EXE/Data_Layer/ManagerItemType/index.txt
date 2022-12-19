@@ -1,0 +1,4 @@
+Observació:
+    Podem veure que en el expected hi ha un caracter que a la sortida
+    del terminal no surt, aixó he es degut a la codificació que utilizen
+    per crear un arxiu.

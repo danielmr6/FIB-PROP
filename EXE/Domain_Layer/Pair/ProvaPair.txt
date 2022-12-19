@@ -1,0 +1,27 @@
+Descripcio: casos d’us i classe a provar
+
+1) -> Pair()
+2) -> Pair(T1 key, T2 value)
+3) -> T1 getKey()
+4) -> T2 getValue() 
+5) -> void setKey(T1 key)
+6) -> void setValue(T2 value)
+7) -> boolean equals(Pair<T1, T2> p)
+8) -> Exit
+    
+Objectius: 
+Confirmar que tots els metodes  de la classe Pair funcionen correctament.
+
+
+Drivers construits i integrats per a la prova
+	-DriverPair.java
+	
+
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: OK
+
+ 
+ 

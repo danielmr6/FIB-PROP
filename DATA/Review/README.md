@@ -1,0 +1,1 @@
+Valoration data.

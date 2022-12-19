@@ -1,0 +1,20 @@
+Nombre de grup: 8.2
+Subgrup de laboratori: 32
+Lliurament: Primera Entrega
+Data de lliurament: 21/11/2021
+Integrants:
+    -1r Integrant
+    Nom i cognoms: Daniel Moron Roces
+    E-mail: daniel.moron.roces@estudiantat.upc.edu
+
+    -2n Integrant
+    Nom i cognoms: Daniel Garcia Estevez
+    E-mail: daniel.garcia.estevez@estudiantat.upc.edu
+
+    -3r Integrant
+    Nom i cognoms: Eloi
+    E-mail: eloi.balaer@estudiantat.upc.edu
+
+    -4t Integrant
+    Nom i cognoms: Guillem
+    E-mail: guillem.gonzalez@estudiantat.upc.edu

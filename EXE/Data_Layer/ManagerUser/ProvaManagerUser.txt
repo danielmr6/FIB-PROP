@@ -1,0 +1,20 @@
+Descripcio: Classe ManagerUser
+
+	Casos d'us a valorar:
+
+		  1 -> loadUser()
+		  2 -> storeUser(ArrayList<String> Users)
+		  exit -> close the Driver menu
+		  
+Objectius: 
+	La correcta prova de la classe ManagerUser, per veure que tot metode que ens pot interessar funciona correctament.
+	Per saber que s'ha de fer en cada moment el driver conte explicacions interactives dels metodes a provar.
+	
+Drivers construits e integrats per a la prova: 
+				DriverManagerUser.java
+				
+Entrada: input.in
+
+Sortida: conjunt de users.
+
+Resultat de la prova: ok

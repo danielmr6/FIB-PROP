@@ -1,0 +1,39 @@
+Directori subgrup-prop8-2
+
+Conte:
+Tots els directoris relacionats amb el projecte.
+Directoris:
+    DATA conte tots els fitxers amb la informacio necessaria per executar el programa.
+    DOCS conte tots els fitxers amb la documentacio del projecte
+    EXE conte els jocs de prova de la capa de dades i de domini.
+    FONTS conte tot el codi font que forma el projecte
+    TEST conte els fitxers per testejar mitjançant JUnit.
+Fitxers:
+    G8.2.txt
+    
+    
+    
+    
+    
+    
+ACLARIMENTS IMPORTANTS A TENIR EN COMPTE:
+
+1. 
+Cal destacar que a l'hora de fer els jocs de prova ens hem centrat en la part de domini, 
+pero hi ha alguns per la part de dades com el del controlador de dades. 
+
+2. 
+En els jocs de prova de Capa_Dades nomes hem provat la part de carregar les dades perque
+si fem el store sorgirien problemes per executar els algorismes i les funcionalitats principals,
+ja que es modificarien les dades que ens han donat als fitxers CSV.
+
+3.
+Un altre punt important es que el fitxer .bat serveix per compilar i executar els drivers de les 
+classes, pero les classes que utilitzen llibreries externes no es poden executar correctament perque no hem trobat informacio suficient per arreglar el problema de:
+
+En temps d'execucio no es detecten les llibreries externes.
+
+4.
+
+Degut a que el desenvolupament s'ha fet en Linux, que utilitza una codificacio de caracter diferent de Windows, a l'hora de llegir per terminal en Windows interpreta els inputs malament, pero el programa
+funciona correctament.

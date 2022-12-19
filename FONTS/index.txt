@@ -1,0 +1,16 @@
+Directori FONTS
+
+Conte:
+Els diferents packages amb el conjunt de classes de cada package corresponent.
+
+    Directoris:
+   	data carpeta amb les classes relacionades amb la capa de persistencia
+	domain carpeta amb les classes relacionades amb la capa de domain
+	lib
+	test carpeta amb les classes de JUnit per testejar 
+
+    Fitxers:
+    run.bat compila i executa els programes dels diferents packages. *
+    
+   
+   *No funciona amb classes que utilitzen llibreries externes.

@@ -1,0 +1,39 @@
+Descripcio: casos d’us i classe a provar
+
+ 1) -> Item()
+ 2) -> Item(Integer id)
+ 3) -> Item(Integer id, String nameType)
+ 4) -> Item(String objectData)
+ 5) -> getId()	
+ 6) -> getNameType()
+ 7) -> getAvarageReviewed()
+ 8) -> getRaterUsers()
+ 9) -> getAttributesNumerics()
+ 10) -> getAttributesBooleans()		
+ 11) -> getAttributesCategorical()
+ 12) -> getAtrNumericWithName()
+ 13) -> getAtrBooleanWithName()
+ 14) -> getAtrCategoricalWithName()
+ 15) -> setId()		
+ 16) -> setNameType()
+ 17) -> setAvarageReviews()
+ 18) -> setRaterUser()
+ 19) -> setAttributesNumerics()
+ 20) -> setAttributesBooleans()
+ 21) -> setAttributesCategorical()
+ 22) -> distance()
+ 23) -> toString()
+ 24) -> exit
+ 
+Confirmar que totes les funcions de la classe Item no produeixen cap error en temps d'execucio.
+A mes per cada cas el Driver te informacio per saber com s'ha d'executar.
+
+Drivers construits i integrats per a la prova
+	-DriverItem.java
+	
+
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: OK

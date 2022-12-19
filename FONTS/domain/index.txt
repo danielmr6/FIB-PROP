@@ -1,0 +1,23 @@
+Directori domain
+Conte:
+	Aquesta carpeta conte totes les classes que implementen la capa de domini
+    Fitxers:
+		CtrlDomainLayer.java
+		DriverCtrlDomainLayer.java
+		ActiveUser.java
+		DriverActiveUser.java
+		Item.java
+		DriveItem.java
+		ItemType.java
+		DriverItemType.java
+		Recommendation.java
+		DriverRecommendation.java
+		Review.java
+		DriverReview.java
+		User.java
+		DriverUser.java
+		Pair.java
+		DriverPair.java
+		
+
+

@@ -1,0 +1,24 @@
+Directori Domain_Layer
+
+Conte:
+
+	Directoris:
+
+		ActiveUser: El directori on hi ha l'executable del driver ActiveUser i els seus tests.
+	
+		CtrlDomainLayer: El directori on hi ha l'executable del driver CtrlDomainLayer i els seus tests.
+
+		Item: El directori on hi ha l'executable del driver Item i els seus tests.
+		
+		ItemType: El directori on hi ha l'executable del driver ItemType i els seus tests.
+
+		Pair: El directori on hi ha l'executable del driver Pair i els seus tests.
+
+		Recommendation: El directori on hi ha l'executable del driver Recommendation i els seus tests.
+
+		Review: El directori on hi ha l'executable del driver Review i els seus tests.
+
+		User: El directori on hi ha l'executable del driver User i els seus tests.
+
+	Fitxers:
+		

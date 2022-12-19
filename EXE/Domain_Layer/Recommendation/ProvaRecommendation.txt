@@ -1,0 +1,35 @@
+Descripcio: casos d’us i classe a provar
+
+	1 -> Void constructor.
+ 	2 -> Constructor with given id.
+    	3 -> Constructor with given id and items.
+	4 -> Constructor with a string given by the data domain. Please insert the string, separated by '$'
+    	5 -> Constructor of the string of the object to be given to the data layer.
+   	6 -> Getter of the identifier of the recommendation.
+    	7 -> Getter of the user of the recommendation.
+    	8 -> Getter of the items of the recommendation.
+    	9 -> Getter of the DCG of the recommendation.
+    	10 -> Setter of the id of the recommendation.
+    	11 -> Setter of the DCG of the recommendation.
+    	12 -> Setter of the DCG of the recommendation.
+    	13 -> Setter of the items of the recommendation.
+    	14 -> Adder of items.
+    	15 -> Intersection of two recommendations.
+    	16 -> Union of two recommendations.
+    
+Objectius: 
+Confirmar que totes les funcions de la classe Recommendation no produeixen cap error en temps d'execucio.
+A mes per cada cas el Driver te informacio per saber com s'ha d'executar.
+
+Drivers construits i integrats per a la prova
+	-DriverRecommendation.java
+	
+
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: OK
+
+ 
+ 

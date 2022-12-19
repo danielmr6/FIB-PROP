@@ -1,0 +1,32 @@
+Descripcio: Classe ActiveUser
+
+	Casos d'us a valorar:
+
+		  1 -> ActiveUser()
+		  2 -> ActiveUser(Integer id)
+		  3 -> ActiveUser(Integer id, ArrayList<Integer> Reviews)
+		  4 -> ActiveUser(Integer id, Integer id_r, boolean admin, ArrayList<Integer> Reviews)
+		  5 -> ActiveUser(String data)
+		  6 -> String toString()
+		  7 -> Integer getId()
+		  8 -> Integer getId_r()
+		  9 -> Integer getAdmin()
+		  10 -> ArrayList<Integer> getReview()
+		  11 -> void setId(Integer id)
+		  12 -> void setId_r(Integer id_r)
+		  13 -> void setAdmin(Boolean adm)
+		  14 -> void addReview(Integer id_item)
+		  exit -> close the Driver menu
+		  
+Objectius: 
+	La correcta prova de la classe ActiveUser, per veure que tot metode que ens pot interessar funciona correctament.
+	Per saber que s'ha de fer en cada moment el driver conte explicacions interactives dels metodes a provar.
+	
+Drivers construits e integrats per a la prova: 
+				DriverActiveUser.java
+				
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: ok

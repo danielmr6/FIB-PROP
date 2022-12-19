@@ -1,0 +1,22 @@
+Directori Review
+
+Conte:
+
+	Directoris:
+		
+		data: Conte els binarys que es generan al compilar.
+
+		domain: Conte els binarys que es generan al compilar.
+
+	Fitxers:
+		DriverReview.jar: Executable del driver per provar les funcions. 
+
+		expected.txt: text que s'espera que es generi al introduir l'input.
+
+		input.in: fitxer que conte les proves a introduir al driver.
+
+		MANIFEST.MF: arxiu generat automaticament al compilar.
+
+		ProvaReview.txt: Informacio dels jocs de prova.
+		
+		README: informacio de com executar els archius.

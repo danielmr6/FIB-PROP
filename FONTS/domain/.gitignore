@@ -1,0 +1,31 @@
+/Administrator.class
+/CtrlDomainLayer.class
+/Item.class
+/Recommendation.class
+/StrategyCtrl.class
+/User.class
+/Valoration.class
+/ActiveUser.class
+/Administrator$ActiveUser.class
+/ItemType.class
+/Pair.class
+/Valoration$Pair.class
+/DriverItem.class
+/DriverValoration.class
+<<<<<<< HEAD
+/DriverUser.class
+=======
+/DriverRecommendation.class
+>>>>>>> c971e7e15a6ff16b9eb97458f21d1f36a93a99ea
+/DriverActiveUser.class
+/UserTest.class
+/DriverCtrlDomainLayer.class
+/RunnerTest.class
+/Pruebas.class
+/Review.class
+/DriverReview.class
+<<<<<<< HEAD
+/DriverPair.class
+=======
+/DriverItemType.class
+>>>>>>> b136ba27790f47497b293c361fe8be90254151ce

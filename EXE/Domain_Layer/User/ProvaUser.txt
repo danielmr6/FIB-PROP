@@ -1,0 +1,27 @@
+Descripcio: Classe User
+
+	Casos d'us a valorar:
+
+		  1 -> User()
+		  2 -> User(Integer id)
+		  3 -> User(Integer id, ArrayList<Integer> Reviews)
+		  4 -> User(String data)
+		  5 -> String toString()
+		  6 -> Integer getId()
+		  7 -> ArrayList<Integer> getReview()
+		  8 -> void setId(Integer id)
+		  9 -> void addReview(Integer id_item)
+		  exit -> close the Driver menu
+		  
+Objectius: 
+	La correcta prova de la classe User, per veure que tot metode que ens pot interessar funciona correctament.
+	Per saber que s'ha de fer en cada moment el driver conte explicacions interactives dels metodes a provar.
+	
+Drivers construits e integrats per a la prova: 
+				DriverUser.java
+				
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: ok

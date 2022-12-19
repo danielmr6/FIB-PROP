@@ -1,0 +1,6 @@
+Directorio usado para guardar documentación oficial de PROP, esquemas,
+datos de entrada y enunciados que se hayan publicado. Este directorio no
+es oficial, por lo tanto, es de uso interno, para que tengamos nosotros
+las cosas en algún sitio. Los casos de uso y UML han de ir todo en un mismo
+documento que estara en la carpeta DOCS.
+

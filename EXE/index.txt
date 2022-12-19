@@ -1,0 +1,12 @@
+Directori EXE
+
+Conte:
+
+	Directoris:
+
+		Data_Layer: El directori on es troben els directoris on hi ha els executables dels drivers de la capa de dades i els seus tests.
+	
+		Domain_Layer: El directori on es troben els directoris on hi ha els executables dels drivers de la capa de domini i els seus tests.
+
+	Fitxers:
+		README.md: Info extra

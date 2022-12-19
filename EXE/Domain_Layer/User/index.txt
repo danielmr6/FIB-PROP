@@ -1,0 +1,22 @@
+Directori User
+
+Conte:
+
+	Directoris:
+		
+		data: Conte els binarys que es generan al compilar.
+
+		domain: Conte els binarys que es generan al compilar.
+
+	Fitxers:
+		DriverUser.jar: Executable del driver per provar les funcions. 
+
+		expected.txt: text que s'espera que es generi al introduir l'input.
+
+		input.in: fitxer que conte les proves a introduir al driver.
+
+		MANIFEST.MF: arxiu generat automaticament al compilar.
+
+		ProvaUser.txt: Informacio dels jocs de prova.
+		
+		README: informacio de com executar els archius.

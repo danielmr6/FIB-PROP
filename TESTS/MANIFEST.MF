@@ -1,0 +1,2 @@
+Main-Class: test.domain.RunnerTest 
+Class-Path: ../FONTS/lib/junit-4.12.jar ../FONTS/lib/hamcrest-core-1.3.jar 

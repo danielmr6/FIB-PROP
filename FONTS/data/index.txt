@@ -1,0 +1,23 @@
+Directori data
+Conte:
+	Aquesta carpeta conte totes les classes que implementen la capa de dades
+    Fitxers:
+		CtrlDataLayer.java
+		DriverCtrlDataLayer.java
+		DriverManagerActiveUser.java
+		DriverManagerCSV.java
+		DriverManagerItem.java
+		DriverManagerItemType.java
+		DriverManagerRecommendation.java
+		DriverManagerReview.java
+		DriverManagerUser.java
+		ManagerActiveUser.java
+		ManagerCSV.java
+		ManagerItem.java
+		ManagerItemType.java
+		ManagerRecommendation.java
+		ManagerReview.java
+		ManagerUser.java
+		
+
+

@@ -1,0 +1,37 @@
+Descripcio: casos d’us i classe a provar
+
+		 //Constructors
+	     1) -> Review()
+		 2)-> Review(Integer idItm, Integer idUsr)
+		 3)-> Review(Double value, Integer idItm, Integer idUsr)
+		 4) -> Review(String val)
+	
+		 //Getters and Setters
+	     5) -> Integer getUser()
+		 6) -> void setUser(Integer idu)
+		 7) -> Integer getItem()
+	     8) -> void setItem(Integer idIt)
+		 9) -> Double getReview()
+		 10) -> void setReview(Double value)
+		 
+		 //Others and exit
+		 11) -> String toString()
+		 12) -> boolean compareCr(Review v)
+		 13) -> Exit and close the Driver menu
+
+Objectius:
+Provar que totes les funcionalitats de la classe Review tenen el comportament adequat.
+
+
+Drivers construits i integrats per a la prova
+
+- DriverReview.java
+
+
+Entrada: input.in
+
+
+Sortida: expected.txt
+
+
+Resultat de la prova: OK

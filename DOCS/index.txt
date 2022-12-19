@@ -1,0 +1,10 @@
+Directori DOCS
+
+Conte:
+Tota la informacio necessaria relacionada amb la documentacio del projecte del sistema recomanador.
+Directoris:
+    JavaDoc:Internament te tots els fitxers que generen la documentacio en JavaDoc
+	
+Fitxers:
+    README.md dona una petita descripcio de que es el directori DOCS.
+    Entrega1.pdf conte tots els apartats de documentacio especificats a la normativa.

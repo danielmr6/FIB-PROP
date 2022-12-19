@@ -1,0 +1,26 @@
+Descripcio: Classe ItemType
+
+	Casos d'us a valorar:
+
+		  1 -> ItemType()
+		  2 -> ItemType((String nametype, ArrayList<String> attrib)
+		  3 -> ItemType(String data)
+		  4 -> String toString()
+		  5 -> String getNameType()
+		  6 -> ArrayList<String> getNameAttributes()
+		  7 -> void setNameType(String nameType)
+		  8 -> void setNameAttributes(ArrayList<String> nameattributes)
+		  exit -> close the Driver menu
+		 
+Objectius: 
+	La correcta prova de la classe ItemType, per veure que tot metode que ens pot interessar funciona correctament.
+	Per saber que s'ha de fer en cada moment el driver conte explicacions interactives dels metodes a provar.
+	
+Drivers construits e integrats per a la prova: 
+				DriverItemType.java
+				
+Entrada: input.in
+
+Sortida: expected.txt
+
+Resultat de la prova: ok
